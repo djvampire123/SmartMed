@@ -1,0 +1,20 @@
+{
+  "name": "SmartMed",
+  "homepage": "https://github.com/djvampire123/SmartMedicine",
+  "authors": [
+    "Deepesh Bhardwaj <deepeshbhardwaj2003@gmail.com>"
+  ],
+  "description": "IoT enabled applications that helps patients take medicine in time",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chart.js": "^2.4.0"
+  }
+}

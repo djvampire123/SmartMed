@@ -1,0 +1,64 @@
+*{
+	font-family: 'Arimo', sans-serif;
+	
+}
+
+.custom-card-title{
+	background: rgba(0,0,0,0.5); width: 100%;
+}
+
+.custom-fix{
+	position: fixed;
+}
+
+.certificates{
+	margin: 10px;
+}
+
+.custom-badge{
+	border-radius: 50px; border: 2px #2196F3 solid; padding: 1px 10px 1px 10px; margin-right: 2px; margin-left: 0;  color: #2196F3; transition: all 0.5s;
+}
+
+.custom-badge:hover{
+	background: #2196f3; color: #fff; transition: all 0.5s; cursor: default;
+}
+
+.stat{
+	border: 1px solid #e0e0e0;
+}
+
+.custom-no{
+	font-size: 36px; font-weight: bold;
+}
+
+.card-image{
+	height: 250px; overflow-y: hidden;
+}
+
+.modal-content textarea{
+	width: 100%;
+	height: 250px;
+	border: 0;
+	box-shadow: 1px 0 2px 0;
+	resize: none;
+}
+
+#index-banner{
+	background: url('../images/a.jpg'); height: 120vh; position: relative; top: -80px; z-index: -1;
+}
+
+.custom-transparent{
+	background: rgba(0,0,0,0); transition: all 0.5s;
+}
+
+.transition{
+	transition: all 0.5s;
+}
+
+.home-fa{
+	font-size: 160px; padding-top: 50px;
+}
+
+.download-button{
+
+}
